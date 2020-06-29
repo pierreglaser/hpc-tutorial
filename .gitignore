@@ -9,3 +9,5 @@ __pycache__
 drafts/
 bench/
 _logger_config.py
+joblib-cache-directory
+.ipynb_checkpoints/
