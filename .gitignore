@@ -1,0 +1,11 @@
+.tags
+tags
+_test_worker*/
+dask-worker-space
+__pycache__
+*.swo
+*.swp
+*.pyc
+drafts/
+bench/
+_logger_config.py
