@@ -1,5 +1,6 @@
 # HPC tutorial: run Python code on a slurm cluster using joblib and dask
 
-This repository contains sample code and bash scripts to set up a `Python`
-environment necessary to natively distribute `Python` code on a slurm cluster.
-Once you're set up, no `slurm`/`bash` surgery is needed.
+This repository contains simple tutorial to showcase the how `joblib` and `dask`, two `Python` libraries
+can parallelize `Python` code, both on a single machine and on a distributed computing cluster such as slurm.
+
+It also contains standalone instruction install the necessary `Python` libraries/development environment.
